@@ -1,0 +1,8 @@
+{
+    "paginate": {
+        "default": 10,
+        "max": 20
+    },
+    "mysql": "mysql://pma:741852963@27.74.250.26:3306/bds_cms"
+    
+}

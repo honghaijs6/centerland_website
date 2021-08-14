@@ -1,0 +1,25 @@
+{
+    "paginate": {
+        "default": 10,
+        "max": 20
+    },
+    "mysql": "mysql://pma:741852963@27.74.250.26:3306/bds_cms",
+    "header":{
+        "tam-nhin-va-su-menh":"https://firebasestorage.googleapis.com/v0/b/benjamin-region-hongkong.appspot.com/o/photos%2Fglobal-business.jpg?alt=media",
+        "gia-tri-cot-loi":"https://firebasestorage.googleapis.com/v0/b/benjamin-region-hongkong.appspot.com/o/photos%2Fcorevalue_main.jpg?alt=media",
+        "ban-lanh-dao":"https://firebasestorage.googleapis.com/v0/b/benjamin-region-hongkong.appspot.com/o/photos%2Fleader.jpg?alt=media",
+        "becamex-binh-phuoc":"https://www.tapdoantrananh.com.vn/uploads/files/2020/04/25/khu-cong-nghiep-becamex-binh-phuoc-3.jpg",
+        "vship-1":"https://becamex.com.vn/wp-content/uploads/2019/07/khu-cong-nghiep-do-thi-va-dich-vu-becamex-binh-dinh-1.jpg",
+        "nha-pho":"https://centrallandgroup.com/wp-content/uploads/2019/08/ph%E1%BB%91i-c%E1%BA%A3nh-nh%C3%A0-ph%E1%BB%91-b%E1%BA%A3o-ng%E1%BB%8Dc-garden.jpg",
+        "dat-nen":"https://sites.google.com/site/batdongsancrownland/_/rsrc/1552552951468/thong-tin-du-an/datnenganbecamexbinhphuocchi450trden580tr1000m2sohongrieng/115285e899f87ba622e9.jpg",
+        "can-ho":"https://propzy.vn/tin-tuc/wp-content/uploads/2020/11/5-du-an-can-ho-hang-sang-tai-tp-ho-chi-minh-se-mo-ban-dau-nam-2021-1.jpg",
+        "tien-do-du-an":"https://firebasestorage.googleapis.com/v0/b/benjamin-region-hongkong.appspot.com/o/photos%2Fheight-2.jpg?alt=media",
+        "tuyen-dung":"https://www.bidv.com.vn/wps/wcm/connect/3b307519-1ec9-40b7-8a4e-1dd9479e7af8/shutterstock_425824531.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3b307519-1ec9-40b7-8a4e-1dd9479e7af8-mDnqkkP",
+        "giao-trinh-dao-tao":"https://www.game-learn.com/wp-content/uploads/2020/04/e-learning-2020.jpg",
+        "kien-thuc-cho-nha-dau-tu":"https://www.vlogdautu.com/storage/app/uploads/public/5c6/c1b/5d5/5c6c1b5d5322d813434130.jpg",
+        "chu-dau-tu-becamex":"https://image.bizlive.vn/uploaded/tungnx/2019_11_06/dji0572-1511400446530_arqm.jpg",
+        "tin-thi-truong":"https://tankienland.com/wp-content/uploads/2020/04/MIPEC-RUBIK360_TRUNG-TAM-THUONG-MAI-1400x788.jpeg",
+        "lien-he":"https://firebasestorage.googleapis.com/v0/b/benjamin-region-hongkong.appspot.com/o/kimcuong%2Fbig-team.png?alt=media"
+    }
+    
+}
