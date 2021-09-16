@@ -12,8 +12,9 @@ class AboutUs extends Component {
                 <div className="about-image">
                   <div className="img1">
                     <img
-                      
-                      src={require("../../images/about-image/big-team-sm.png")}
+                      style={{ width:550}}
+                      src={require("../../images/about-image/toa-nha-cty.jpg")}
+                     
                       alt="image"
                     />
                   </div>

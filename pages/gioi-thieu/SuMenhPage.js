@@ -40,7 +40,7 @@ class SuMenhPage extends Component {
                   <p style={{ textAlign: "center" }}>
                     <img
                       style={{ width: "100%" }}
-                      src={require("../../images/about-image/big-team.png")}
+                      src={require("../../images/about-image/big-team.jpg")}
                     />
                   </p>
                 </div>
