@@ -25,7 +25,7 @@ class VideoArea extends Component {
 
                         <div className="video-box">
                             <img 
-                                src={require("../../images/khai-truong.jpg")} 
+                                src={"https://i.imgur.com/zPkafvC.jpeg"} 
                                 alt="image" 
                             />
 
@@ -48,7 +48,7 @@ class VideoArea extends Component {
                 <ModalVideo 
                     channel='youtube' 
                     isOpen={this.state.isOpen} 
-                    videoId='LjnTREMJXBY' 
+                    videoId='xQrk6doFiPo' 
                     onClose={() => this.setState({isOpen: false})} 
                 />
             </React.Fragment>

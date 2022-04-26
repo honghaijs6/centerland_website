@@ -206,7 +206,7 @@ class Banner extends Component {
                     <ul>
                       <li>
                         <i className="flaticon-location"></i>
-                        <span>Trụ sở chính</span>Số 49, Đường số 5 - Khu đô thị Vạn Phúc - P.Hiệp bình phước - TP.HCM
+                        <span>Trụ sở chính</span>Số 49, Đường số 5 - Khu đô thị Vạn Phúc - P.Hiệp Bình Phước - TP.HCM
                       </li>
 
                       

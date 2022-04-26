@@ -39,7 +39,7 @@ class AboutUs extends Component {
                       <div className="icon">
                         <i className="flaticon-work"></i>
                       </div>
-                      <span style={{ fontSize: "500" }}>Giá trí cốt lõi</span>7
+                      <span style={{ fontSize: "500" }}>Giá trí cốt lõi</span>5
                       Phẩm chất Super Sales của BĐS Center Land
                     </li>
 

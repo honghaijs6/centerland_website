@@ -163,15 +163,15 @@ const UngTuyen = ({ isOpen = false, onHide = () => {}, data = null }) => {
               <div style={{ textAlign: "center" }}>
                 <div className="single-footer-widget">
                   <ul className="social">
-                    <li>
-                      <Link href="https://www.facebook.com/batdongsankimcuong.bd">
+                  <li>
+                      <Link href="https://www.facebook.com/CenterLand.DY">
                         <a target="_blank">
                           <i className="flaticon-facebook"></i>
                         </a>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://twitter.com/KimCuongLand1">
+                      <Link href="https://twitter.com/CenterLand1">
                         <a target="_blank">
                           <i className="flaticon-twitter"></i>
                         </a>
@@ -179,7 +179,7 @@ const UngTuyen = ({ isOpen = false, onHide = () => {}, data = null }) => {
                     </li>
 
                     <li>
-                      <Link href="https://www.instagram.com/kimcuongland">
+                      <Link href="https://www.instagram.com/CenterLand">
                         <a target="_blank">
                           <i className="flaticon-instagram"></i>
                         </a>

@@ -1,7 +1,7 @@
 
 
 const server = {
-    host: process.env.NODE_ENV === 'production' ? "https://centerland.herokuapp.com" : "http://localhost:3333",  //"https://kcland.herokuapp.com"//https://kimcuong-backend.et.r.appspot.com,//"http://27.74.250.26",//"http://localhost",//"http://115.78.5.75",
+    host: "https://centerland.herokuapp.com",//process.env.NODE_ENV === 'production' ? "https://centerland.herokuapp.com" : "http://localhost:3333",  //"https://kcland.herokuapp.com"//https://kimcuong-backend.et.r.appspot.com,//"http://27.74.250.26",//"http://localhost",//"http://115.78.5.75",
     port:443,
   
     creator_id:2, // bdskimcuong

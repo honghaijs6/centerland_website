@@ -142,7 +142,7 @@ const [isSubmited, setSubmit] = useState(false) ;
                 <ul className="footer-contact-info">
                   <li>
                     <span style={{ fontWeight: "500" }}>Trụ sở chính :</span> Ô
-                    Số 49, Đường số 5 - Khu đô thị Vạn Phúc - P.Hiệp bình phước - TP.HCM
+                    Số 49, Đường số 5 - Khu đô thị Vạn Phúc - P.Hiệp Bình Phước - TP.HCM
                     
                   </li>
                   

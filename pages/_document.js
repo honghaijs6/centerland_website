@@ -49,9 +49,9 @@ class MyDocument extends Document {
             page_id="102376335464439"
             theme_color="#F65B22"
             logged_in_greeting="Cảm ơn bạn đã liên hệ với Center Land!
-            Bạn để lại SĐT, KCL sẽ gọi tư vấn cho bạn nhé!"
+            Bạn để lại SĐT, Center Land sẽ gọi tư vấn cho bạn nhé!"
             logged_out_greeting="Cảm ơn bạn đã liên hệ với Center Land!
-            Bạn để lại SĐT, KCL sẽ gọi tư vấn cho bạn nhé!"
+            Bạn để lại SĐT, Center Land sẽ gọi tư vấn cho bạn nhé!"
           ></div>
         </Head>
         <body>

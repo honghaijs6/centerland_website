@@ -69,7 +69,7 @@ class ContactContent extends Component {
                       <div className="icon">
                         <i className="flaticon-location"></i>
                       </div>
-                      <span>Trụ sở chính</span>Số 49, Đường số 5 - Khu đô thị Vạn Phúc - P.Hiệp bình phước - TP.HCM
+                      <span>Trụ sở chính</span>Số 49, Đường số 5 - Khu đô thị Vạn Phúc - P.Hiệp Bình Phước - TP.HCM
                     </li>
 
                     
@@ -93,15 +93,15 @@ class ContactContent extends Component {
                   </ul>
 
                   <ul className="social">
-                    <li>
-                      <Link href="https://www.facebook.com/batdongsankimcuong.bd">
+                  <li>
+                      <Link href="https://www.facebook.com/CenterLand.DY">
                         <a target="_blank">
                           <i className="flaticon-facebook"></i>
                         </a>
                       </Link>
                     </li>
                     <li>
-                      <Link href="https://twitter.com/KimCuongLand1">
+                      <Link href="https://twitter.com/CenterLand1">
                         <a target="_blank">
                           <i className="flaticon-twitter"></i>
                         </a>
@@ -109,7 +109,7 @@ class ContactContent extends Component {
                     </li>
 
                     <li>
-                      <Link href="https://www.instagram.com/kimcuongland/">
+                      <Link href="https://www.instagram.com/CenterLand">
                         <a target="_blank">
                           <i className="flaticon-instagram"></i>
                         </a>
