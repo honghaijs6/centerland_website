@@ -102,7 +102,7 @@ const Navbar = ({ data = [] }) => {
                   {state.data.map((item, index) => {
                     if (item.parent_id === 0) {
                       const parentLink = !_haveSubList(item.id)
-                        ? "/" + item.route
+                        ?  item.route
                         : "#";
                       return (
                         <li key={item.id} className="nav-item">

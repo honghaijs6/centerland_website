@@ -12,7 +12,7 @@ import Footer from '../../components/Layout/Footer';
 import Banner from './Banner';
 import AboutUS from './AboutUs' ; 
 import OurProject from './OurProject';
-import TienDoDuAn from './TienDoDuAn';
+import TienDoDuAn from './TienDoDuAn'; 
 import KyGui from './KyGui';
 
 import { AppContext } from '../../context/AppStateProvider';

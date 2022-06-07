@@ -45,7 +45,7 @@ const TienDoDuAn = (props) => {
   useEffect(() => {
     doLoad("posts", {
       max: 7,
-      parent_id: 9,
+      parent_id: 36,
     }).then((data) => {
       setState((prev) => {
         return {
@@ -62,8 +62,8 @@ const TienDoDuAn = (props) => {
       <section className="services-area ptb-100 bg-f8f8f8">
         <div className="container">
           <div className="section-title">
-            <h2>Tiến độ dự án</h2>
-            <p>Bản tin luôn cập nhật tình hình tiến độ dự án</p>
+            <h2>Hoạt động công ty </h2>
+            <p>Bản tin cập nhật các hoạt động công ty</p>
           </div>
 
           {state.display ? (
