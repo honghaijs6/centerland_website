@@ -44,8 +44,8 @@ const TienDoDuAn = (props) => {
 
   useEffect(() => {
     doLoad("posts", {
-      max: 7,
-      parent_id: 36,
+      max: 6,
+      creator_id: 2,
     }).then((data) => {
       setState((prev) => {
         return {
@@ -62,8 +62,8 @@ const TienDoDuAn = (props) => {
       <section className="services-area ptb-100 bg-f8f8f8">
         <div className="container">
           <div className="section-title">
-            <h2>Hoạt động công ty </h2>
-            <p>Bản tin cập nhật các hoạt động công ty</p>
+            <h2>Mới cập nhật</h2>
+            <p>Bản tin cập nhật mới nhất từ Centerland</p>
           </div>
 
           {state.display ? (
@@ -74,7 +74,7 @@ const TienDoDuAn = (props) => {
               {state.rows.map((item) => {
                 const photo = JSON.parse(item["images"])[0]["url"];
 
-                const url = '/tien-do-du-an/'+item.slug ; 
+                const url =  item['meta_title'].toString().indexOf(",") > -1 ?  item['meta_title'].toString().replace(",","/")+"/"+item.slug  : '/'+ item['meta_title'].toString().replace(",","/") +'/s/'+item.slug ; 
 
 
 
